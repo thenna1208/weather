@@ -11,7 +11,7 @@ body {
 .app {
   background-image: url('./assets/cold-bg.jpg');
   background-size: auto;
-  background-position: bottom;
+  background-position: top;
   transition: 0.4 ease;
   /* height: 1000px; */
 }
